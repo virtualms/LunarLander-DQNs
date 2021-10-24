@@ -11,7 +11,8 @@ The aim of this project is to experiment some DQN variants on [LunarLander-v2](h
 
 In all the reported versions, an experience replay was implemented.
 
----
+
+## Results
 
 The results of all the experiments done are reported below. 
 
@@ -27,3 +28,12 @@ The mean reward over the last 100 episodes are reported. All models were trained
 
 
 ![rainbow_small](https://user-images.githubusercontent.com/50915778/138606906-eef56fb4-ed80-4167-8efe-9b307f742ffb.png)
+
+
+Epoch 0:
+https://user-images.githubusercontent.com/50915778/138607060-207d41bf-23fe-46fe-b707-0634f112df70.mp4
+
+Epoch 500:
+https://user-images.githubusercontent.com/50915778/138607066-d70a3ba8-4c46-442c-a104-9f09f6508eeb.mp4
+
+
