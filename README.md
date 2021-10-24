@@ -1,6 +1,6 @@
 # LunarLander-DQNs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/virtualms/Transformers/blob/main/performer_bert_t5_perf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/virtualms/LunarLander-DQNs/blob/main/LunarLander_DQNs.ipynb)
 
 The aim of this project is to experiment some DQN variants on [LunarLander-v2](https://github.com/openai/gym/wiki/Leaderboard#lunarlander-v2) environment, offered by [gym.openai](https://gym.openai.com/). In particular, the variants that will be implemented and compared (refer also to the report of the project) are:
 * [DQN](https://arxiv.org/abs/1312.5602)
